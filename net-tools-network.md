@@ -40,6 +40,7 @@ $ sudo zypper install psmisc      [On OpenSUSE]
 ```
 $ fuser 80/tcp
 ```
+```
 $ ps -p 2053 -o comm=
 $ ps -p 2381 -o comm=
 ```
